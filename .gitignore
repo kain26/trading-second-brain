@@ -1,0 +1,25 @@
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+secrets/
+
+# Private broker/account material
+private/
+broker-statements/
+account-statements/
+raw-account-data/
+
+# Optional private trade exports
+trades/private/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
