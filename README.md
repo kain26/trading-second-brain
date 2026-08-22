@@ -12,6 +12,16 @@ A multimodal, agent-friendly knowledge system for traders.
 ![Agent Ready](https://img.shields.io/badge/Agent--Ready-Claude%20%7C%20Codex%20%7C%20GPT-111111)
 ![Forkable](https://img.shields.io/badge/Forkable-Template-111111)
 
+</div>
+
+<p align="center">
+  <img src="./trading-second-brain-workflow.png" alt="Trading Second Brain — AI-managed trading knowledge workflow" width="100%" />
+</p>
+
+<div align="center">
+
+**Stop organizing your trading notes manually. Drop everything into `inbox/`. Let your AI agent organize, connect, and remember the rest.**
+
 **Fork it. Feed it your trading history. Let your past trades participate in your next decision.**
 
 </div>
